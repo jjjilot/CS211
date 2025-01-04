@@ -22,4 +22,4 @@ instructions for the computer.
   - Reason about asymptotic performance characteristics (the relation of time and space requirements to
 problem size) well enough to devise programs with acceptable performance on moderate to large problems.
 
-Taugth by Dr. Juan Flores at University of Oregon.
+Taught by Dr. Juan Flores at University of Oregon.
